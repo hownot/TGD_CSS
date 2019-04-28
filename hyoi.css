@@ -108,33 +108,6 @@ header #header-bar #header-top-notice a,header #header-bar a.dropdown-toggle {
 
 
 
-header #right-search-form>#right-search-btn {
-
-    color: #ffbc42;
-
-    background: 0;
-
-    border: none;
-
-    font-size: 1.4em
-
-}
-
-
-
-header #right-search-form>input[type=text] {
-
-    position: relative;
-
-    border: 3px solid #f08a26;
-
-    background: #ffbc42;
-
-    font-size: 1.1em;
-
-    padding: .3em .5em
-
-}
 
 
 
