@@ -24,7 +24,57 @@ header .row>div:nth-child(1)>a img {
 
 }
 
+/*임시*/
+.dropdown.open .dropdown-menu,
 
+.input-group-btn.open .dropdown-menu {
+
+    opacity: unset;
+
+    transform: unset;
+
+    border: 1px solid #ffbc42;
+
+    border-radius: 10px;
+
+    box-shadow: 0 2px 2px rgba(0,0,0,.3);
+
+}
+
+.dropdown .dropdown-menu,
+
+.input-group-btn .dropdown-menu {
+
+    display: block !important;
+
+    opacity: 0;
+
+    transform: scale(0);
+
+    transform-origin: top;
+
+    transition: all 0.3s cubic-bezier(0.2, 1.5, 0, 1);
+
+    padding: 8px 0 3px 0px;
+
+}
+
+.dropdown-menu>li>a {
+
+    transition: .1s;
+
+}
+
+.dropdown-menu>li>a:hover {
+
+    background: transparent;
+
+    transform: scaleX(1.04);
+
+    transition: .1s;
+
+}
+/*임시*/
 
 
 body,html {
