@@ -9,10 +9,7 @@
     background-image: url(https://hownot.github.io/TGD_CSS/img/computerlogo.png);
 }
 
-#movetotop{
-   background-image: url(https://hownot.github.io/TGD_CSS/img/up.png);
 
-}
 
 #movetotop > img{
  opacity:0
