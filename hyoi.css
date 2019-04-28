@@ -6,12 +6,12 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(img/computerlogo.png) no-repeat
+    background: url(https://hownot.github.io/TGD_CSS/img/computerlogo.png) no-repeat
 
 }
 
 #movetotop{
-   background:url(img/up.png) no-repeat
+   background:url(https://hownot.github.io/TGD_CSS/img/up.png) no-repeat
   
 }
 
