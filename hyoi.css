@@ -1,11 +1,11 @@
 <<<<<<< HEAD
-/*»ö»ó
-¿¬ÁÖ  #ffbc42;
-ºÓ     #D81159;
-ÂðÁÖ  #f08a26;
-¿ÏÁÖ  #FAF4C0;*/
+/*ìƒ‰ìƒ
+ì—°ì£¼  #ffbc42;
+ë¶‰     #D81159;
+ì°ì£¼  #f08a26;
+ì™„ì£¼  #FAF4C0;*/
 
-//¸ð¹ÙÀÏ
+//ëª¨ë°”ì¼
 header>#header-area>a>h1 {
 
     display: inline-block;
@@ -48,7 +48,7 @@ header {
 }
 
 
-//ÄÄÇ»ÅÍ
+//ì»´í“¨í„°
 header .row>div:nth-child(1)>a {
 
     display: block;
@@ -429,13 +429,13 @@ body{
 
 #viewers:before{
 
-    content: "¢¾ "
+    content: "â™¥ "
 
 }
 
 #viewers:after{
 
-    content: "¸í ±¸°æÁß!";
+    content: "ëª… êµ¬ê²½ì¤‘!";
 
 }
 
@@ -452,13 +452,13 @@ body{
      background-color: #ffbc42;
 
 =======
-/*»ö»ó
-¿¬ÁÖ  #ffbc42;
-ºÓ     #D81159;
-ÂðÁÖ  #f08a26;
-¿ÏÁÖ  #FAF4C0;*/
+/*ìƒ‰ìƒ
+ì—°ì£¼  #ffbc42;
+ë¶‰     #D81159;
+ì°ì£¼  #f08a26;
+ì™„ì£¼  #FAF4C0;*/
 
-//¸ð¹ÙÀÏ
+//ëª¨ë°”ì¼
 header>#header-area>a>h1 {
 
     display: inline-block;
@@ -501,7 +501,7 @@ header {
 }
 
 
-//ÄÄÇ»ÅÍ
+//ì»´í“¨í„°
 header .row>div:nth-child(1)>a {
 
     display: block;
@@ -882,13 +882,13 @@ body{
 
 #viewers:before{
 
-    content: "¢¾ "
+    content: "â™¥ "
 
 }
 
 #viewers:after{
 
-    content: "¸í ±¸°æÁß!";
+    content: "ëª… êµ¬ê²½ì¤‘!";
 
 }
 
