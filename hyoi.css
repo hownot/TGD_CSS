@@ -11,7 +11,7 @@
 
 #movetotop{
    background-image: url(https://hownot.github.io/TGD_CSS/img/up.png);
-  
+
 }
 
 #movetotop > img{
@@ -108,7 +108,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
     background: #ffbc42;
 
-    color: #fff; 
+    color: #fff;
 
     padding: .45em 1.4em .45em 1em;
 
@@ -153,7 +153,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 
 .pagination>li>a,.pagination>li>span {
-    
+
     color: #ffbc42;
 
 }
