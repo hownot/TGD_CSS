@@ -1,0 +1,41 @@
+
+header>#header-area>a>h1 {
+
+    display: inline-block;
+
+    cursor: pointer;
+
+    width: 89px;
+
+    height: 32px;
+
+    text-indent: -9999px;
+
+    margin: 0 auto;
+
+    background: url(https://upload.tgd.kr/20190214/5f55b9e9151909e8aeb350356e29816d.png) no-repeat;
+
+}
+header {
+
+    width: 100%;
+
+    border-bottom: 4px solid #f08a26;
+
+    text-align: center;
+
+    padding: 4px 0;
+
+    height: 50px;
+
+    position: fixed;
+
+    top: 0;
+
+    left: 0;
+
+    z-index: 3000;
+
+    transition: top 0.2s ease-in-out;
+
+}
