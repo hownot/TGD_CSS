@@ -33,12 +33,12 @@ header #header-bar {
 
 }
 
-#right-search-input {
+header #right-search-form>input[type=text]{
     border:3px solid #d81159;
 }
 
 header #right-search-form>#right-search-btn {
-    color : #d81159;
+    color : #fff;
 }
 
 header #header-bar #header-top-notice a,header #header-bar a.dropdown-toggle {
