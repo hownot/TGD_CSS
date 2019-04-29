@@ -33,7 +33,7 @@ header #header-bar {
 
 }
 
-form>input #right-search-input {
+#right-search-input {
     border:3px solid #d81159;
 }
 
