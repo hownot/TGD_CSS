@@ -38,12 +38,11 @@ header #right-search-form>input[type=text]{
 }
 
 header #right-search-form>#right-search-btn {
-    color : #fff;
+    color : #d81159;
 }
 
 header #header-bar #header-top-notice a,header #header-bar a.dropdown-toggle {
-
-    color: #fff;
+    color: #d81159;
 
 }
 
@@ -340,7 +339,7 @@ body{
 
 #viewers:after{
 
-    content: "명 구경중!";
+    content: "명 구경중!!";
 
 }
 
