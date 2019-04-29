@@ -306,15 +306,9 @@ body{
 
 }
 
-#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover {
-
-    background-color: #FFFFD2;
-
-}
-
 #article-list>.article-list-row>.item>.list-blocked,#article-list>.article-list-row>.item>.list-category,#article-list>.article-list-row>.item>.list-checkbox,#article-list>.article-list-row>.item>.list-header,#article-list>.article-list-row>.item>.list-time,#article-list>.article-list-row>.item>.list-title {
 
-    border-bottom: 1px solid #D81159;
+    border-bottom: 1px solid #ffffd2;
 
 }
 
